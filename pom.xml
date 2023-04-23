@@ -11,8 +11,7 @@
 	<url>http://mithuntechnologies.com</url>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name>Vivek Reddy</name>
 	</organization>
 	
 	<description>Maven Standalone Application</description>
@@ -22,8 +21,8 @@
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.compiler.source>11</maven.compiler.source>
-                <maven.compiler.target>11</maven.compiler.target>
+		<maven.compiler.source>8</maven.compiler.source>
+                <maven.compiler.target>8</maven.compiler.target>
 	</properties>
 
 	<dependencies>
